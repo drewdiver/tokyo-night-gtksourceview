@@ -8,9 +8,9 @@ I've only tested with gnome text editor and there is no light mode option
 
 ![screenshot](screenshot.png)
 
-## installation
+## Installation for for use in Xfce 4.20 and Mousepad
 
 ```
 curl https://raw.githubusercontent.com/kevin-nel/tokyo-night-gtksourceview/main/tokyo-night.xml > tokyo-night.xml
-mv tokyo-night.xml ~/.local/share/gtksourceview-5/styles
+mv tokyo-night.xml ~/.local/share/gtksourceview-4/styles
 ```
